@@ -1,6 +1,6 @@
 {
   "name": "spectacle-scripts",
-  "version": "1.0.14",
+  "version": "1.0.12",
   "description": "Configuration and scripts for Create React App.",
   "repository": "FormidableLabs/spectacle-scripts",
   "license": "BSD-3-Clause",
