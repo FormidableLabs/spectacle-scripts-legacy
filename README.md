@@ -1,4 +1,6 @@
-# react-scripts
+# spectacle-scripts
+
+Custom `react-scripts` for generating [Spectacle](https://github.com/FormidableLabs/spectacle) presentation boilerplates.
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
