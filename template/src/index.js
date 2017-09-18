@@ -9,9 +9,7 @@ const root = document.getElementById('root');
 render(<Presentation/>, root);
 
 if (module.hot) {
-  if (module.hot) {
-    module.hot.accept();
-  }
+  module.hot.accept();
 }
 
 registerServiceWorker();
