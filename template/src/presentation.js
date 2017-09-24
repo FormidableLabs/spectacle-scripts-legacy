@@ -27,7 +27,7 @@ const theme = createTheme({
   tertiary: "#03A9FC",
   quarternary: "#CECECE"
 }, {
-  primary: "Montserrat",
+  primary: { name: "Montserrat", googleFont: true, styles: ["400", "700"] },
   secondary: "Helvetica"
 });
 
